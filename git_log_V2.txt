@@ -1,0 +1,169 @@
+commit 4d4400f585e007cc3dce84703646843c8033374a
+Author: Shrey Makhesana <shreymmakhesana@gmail.com>
+Date:   Mon Aug 5 21:57:14 2024 -0400
+
+    uploading the source code, project plan, and meeting minutes doc
+
+commit 06a47777a0e0e65694431e1c5917894d793e3e53
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Mon Aug 5 19:14:15 2024 -0600
+
+    Adding Test_Cases of Conversion Version 2
+
+commit 35209174b40a6f4ece67294e0368c6607f23a481
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Mon Aug 5 19:09:26 2024 -0600
+
+    Updating the testcases of converting module
+
+commit 5097661baac0c9e95e9eab5be86cfee13651478b
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Mon Aug 5 18:52:45 2024 -0600
+
+    updating my part of Converting module of version 2
+
+commit fa1be1c574be0e558d4796b2fddaa32160dd673f
+Author: Manav9766 <manavchhillar79@gmail.com>
+Date:   Mon Aug 5 20:29:14 2024 -0400
+
+    update to test case excel file.
+
+commit cbe7de0fe8119091297db79a60f62d9b003c31c7
+Author: Manav9766 <manavchhillar79@gmail.com>
+Date:   Mon Aug 5 20:27:24 2024 -0400
+
+    update to test case excel file.
+    
+    Updated
+
+commit 80b283e80b43dca00283512039727d019127bbaa
+Author: Manav9766 <manavchhillar79@gmail.com>
+Date:   Mon Aug 5 20:14:06 2024 -0400
+
+    added test cases output for fundamentals
+
+commit f0f1bf70bf615dfb22e1b683474434e1b1f4dfbc
+Author: Manav9766 <manavchhillar79@gmail.com>
+Date:   Mon Aug 5 20:04:03 2024 -0400
+
+    Added fundamentals.c and fundamentals.h
+
+commit e00ae5f9c78c64d9e282ac2bdf53ebac95e7d68f
+Author: HetParikh491 <hetparikh491@gmail.com>
+Date:   Mon Aug 5 18:57:12 2024 -0400
+
+    Uploading source code, test case output of Manipulating module and updating test case excel file of version 2
+
+commit 94ac59e3cbf04a52885c5414fcfa102929cc2f3c
+Author: Shrey Makhesana <shreymmakhesana@gmail.com>
+Date:   Sun Aug 4 12:26:50 2024 -0400
+
+    minor updates
+
+commit 01b823dcba36caf4d548e12d29bd0785aceed5ba
+Author: Shrey Makhesana <shreymmakhesana@gmail.com>
+Date:   Sun Aug 4 12:26:01 2024 -0400
+
+    v1 upload
+
+commit 5c4eb2f899820085f19547d0a2d2500b8afb37d1
+Author: Shrey Makhesana <shreymmakhesana@gmail.com>
+Date:   Fri Aug 2 22:51:45 2024 -0400
+
+    Update Final-Project-Test-Cases-version-1.xlsx
+
+commit 32d467774b7897cc079adeb41366deae4ba5b741
+Author: Shrey Makhesana <shreymmakhesana@gmail.com>
+Date:   Fri Aug 2 22:00:53 2024 -0400
+
+    Create Final-Project-Test-Cases-version-1.xlsx
+
+commit 3878c7c1a1b10bea03f26effdce00d8a441f3496
+Author: Manav9766 <manavchhillar79@gmail.com>
+Date:   Fri Aug 2 19:10:32 2024 -0400
+
+    Update to test case excel file
+
+commit 648a0124e1bcebc15fe1654c8d35b6eb97101fca
+Author: HetParikh491 <hetparikh491@gmail.com>
+Date:   Fri Aug 2 15:24:53 2024 -0400
+
+    Uploading source code, test case output of Manipulating module and updating test case excel file
+
+commit a6c36a78ac1bcde6ca5eb129cb26a65dffaa7cb9
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Fri Aug 2 13:08:02 2024 -0600
+
+    Adding testcase screenshot
+
+commit e919289720c22c194df0a246880e97c447f15bcf
+Author: Shrey Makhesana <shreymmakhesana@gmail.com>
+Date:   Fri Aug 2 15:06:32 2024 -0400
+
+    uploading tokenizing module
+
+commit 7e6f5405fed69742557627e3c32ebb813f9e4931
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Fri Aug 2 13:04:47 2024 -0600
+
+    Updating testcases of converting
+
+commit 867fef650ea3b08e9d8d9d009fa719013a1892df
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Fri Aug 2 12:57:08 2024 -0600
+
+    Delete Documents/Test cases/Version 1/Test Cases and bug report V1_Converting.xlsx
+
+commit 1b90b6d1d089835e11be1de5a132bb8b943b9e60
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Fri Aug 2 12:51:19 2024 -0600
+
+    Add files via upload
+
+commit cd841947e2e20120b02262a82f4c70fa35abc15c
+Author: ManavD0309 <manav2005dhameliya@gmail.com>
+Date:   Fri Aug 2 12:48:33 2024 -0600
+
+    Add files via upload
+
+commit 3c2ad1c61118924ad7db55cc66b4db628e912360
+Author: HetParikh491 <hetparikh491@gmail.com>
+Date:   Fri Aug 2 13:42:25 2024 -0400
+
+    UPDATE TEST CASE FILE
+
+commit a433e436e14789a813c5ba8f17297adb7024faaf
+Author: Shrey Makhesana <53891868+shreymac2411@users.noreply.github.com>
+Date:   Fri Aug 2 13:36:41 2024 -0400
+
+    test case excel file
+
+commit 38be852d02ff130831438926134ede2db2f0d6f3
+Author: Manav9766 <manavchhillar79@gmail.com>
+Date:   Fri Aug 2 11:18:09 2024 -0400
+
+    added test cases output for fundamental module
+
+commit 227efb8cebd69293c2581680d2dce0c1e1b57c9c
+Author: Manav9766 <manavchhillar79@gmail.com>
+Date:   Fri Aug 2 11:10:23 2024 -0400
+
+    Added fundamental.c and fundamental.h
+
+commit d9ba3c0d009a5f6f18b01b12eb9f7cab08203deb
+Author: Shrey Makhesana <53891868+shreymac2411@users.noreply.github.com>
+Date:   Thu Aug 1 22:38:49 2024 -0400
+
+    structuring the GitHub repo
+
+commit cdd66b14e3c5945360cdd2a25d1583d194d6cda2
+Author: Shrey Makhesana <53891868+shreymac2411@users.noreply.github.com>
+Date:   Thu Aug 1 21:49:35 2024 -0400
+
+    document upload
+
+commit dc172ef80e200321c1d02b1cff4c5a67eedadd6f
+Author: Shrey Makhesana <53891868+shreymac2411@users.noreply.github.com>
+Date:   Sun Jul 28 18:44:56 2024 -0400
+
+    Initial commit
