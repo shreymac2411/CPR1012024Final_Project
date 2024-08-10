@@ -1,3 +1,9 @@
+commit 549a094c7550e468a02e05d19b6d783ab82edc4b
+Author: Shrey Makhesana <shreymmakhesana@gmail.com>
+Date:   Tue Aug 6 14:05:53 2024 -0400
+
+    uploading test cases runned and working program
+
 commit 4d4400f585e007cc3dce84703646843c8033374a
 Author: Shrey Makhesana <shreymmakhesana@gmail.com>
 Date:   Mon Aug 5 21:57:14 2024 -0400
